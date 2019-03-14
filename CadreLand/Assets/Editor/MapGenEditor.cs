@@ -6,7 +6,6 @@ using UnityEngine;
 [CustomEditor (typeof (MapGenerator))]
 public class MapGenEditor : Editor
 {
-
 	//Add "Generate button to the inspector of Map Generator
 	public override void OnInspectorGUI()
 	{

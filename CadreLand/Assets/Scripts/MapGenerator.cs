@@ -5,21 +5,24 @@ using UnityEngine;
 public class MapGenerator : MonoBehaviour
 {
 
-	public enum DrawMode {NoiseMap, ColorMap};
+	public enum DrawMode {NoiseMap, ColorMap, Mesh};
 	public DrawMode drawMode;
 
-	public int mapWidth;
-	public int mapHeight;
-	public float noiseScale;
-	public int octaves;
+	public int			mapWidth;
+	public int			mapHeight;
+	public float		noiseScale;
+	public int			octaves;
 	[Range(0,1)]
-	public float persistance;
-	public float lacunarity;
-	public int seed;
-	public Vector2 offset;
-	public bool autoUpdate;
+	public float		persistance;
+	public float		lacunarity;
+	public int			seed;
+	public Vector2		offset;
 
-	public TerrainType[] regions;
+	public float meshHeightMultiplier;
+	public AnimationCurve meshHeightCurve;
+
+	public bool				autoUpdate;
+	public TerrainType[]	regions;
 
 	//Generate the map in the scene
 	public void GenerateMap()
@@ -56,7 +59,10 @@ public class MapGenerator : MonoBehaviour
 		{
 			display.DrawTexture(TextureGenerator.TextureFromColorMap(colorMap,mapWidth,mapHeight));
 		}
-
+		else if (drawMode == DrawMode.Mesh)
+		{
+			display.DrawMesh(MeshGenerator.GenerateTerrainMesh (noiseMap, meshHeightMultiplier, meshHeightCurve), TextureGenerator.TextureFromColorMap(colorMap, mapWidth, mapHeight));
+		}
 
 	}
 
@@ -78,5 +84,6 @@ public class MapGenerator : MonoBehaviour
 		public string name;
 		public float height;
 		public Color color;
+		
 	}
 }
