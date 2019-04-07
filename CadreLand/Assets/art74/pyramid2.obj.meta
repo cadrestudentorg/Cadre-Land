@@ -11,6 +11,7 @@ ModelImporter:
     400004: //RootNode
     2100000: Cube.001_Cube.001Mat
     2100002: Cube_CubeMat
+    2100004: Material
     2300000: Cube.001_Cube.001
     2300002: Cube_Cube
     3300000: Cube.001_Cube.001
