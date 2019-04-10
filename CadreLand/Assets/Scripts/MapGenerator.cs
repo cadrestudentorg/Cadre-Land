@@ -8,6 +8,8 @@ public class MapGenerator : MonoBehaviour
 	public enum DrawMode {NoiseMap, ColorMap, Mesh, FalloffMap};
 	public DrawMode drawMode;
 
+	public bool updateOnPlay = true;
+
 	private const int mapChunkSize = 241;
 	[Range(0, 6)] public int levelOfDetail;
 	public float		noiseScale;
@@ -83,6 +85,12 @@ public class MapGenerator : MonoBehaviour
 			display.DrawTexture(TextureGenerator.TextureFromHeightMap(FalloffGenerator.GenerateFalloffMap(mapChunkSize)));
 		}
 
+	}
+
+	private void Update()
+	{
+		if(updateOnPlay)
+			GenerateMap();
 	}
 
 	void OnValidate()
