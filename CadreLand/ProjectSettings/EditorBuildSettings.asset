@@ -8,10 +8,7 @@ EditorBuildSettings:
   - enabled: 0
     path: 
     guid: 00000000000000000000000000000000
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/CadreLand.unity
     guid: 36f16e96d85bcea42b68098474b58445
-  - enabled: 1
-    path: Assets/Scenes/VRTest.unity
-    guid: 40f84ed51cfb7aa41be5b905020a5f57
   m_configObjects: {}
