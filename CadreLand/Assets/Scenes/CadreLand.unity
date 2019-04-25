@@ -113,7 +113,11 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &35845901
+=======
+--- !u!1 &3067293
+>>>>>>> parent of d65b281... Merge branch 'master' into vr
 =======
 --- !u!1 &3067293
 >>>>>>> parent of d65b281... Merge branch 'master' into vr
@@ -788,6 +792,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Material: {fileID: 0}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
@@ -846,6 +851,8 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &123581111
 =======
+=======
+>>>>>>> parent of d65b281... Merge branch 'master' into vr
   autoPopulateObjectReferences: 0
   actualBoundaries: {fileID: 771461477}
   actualHeadset: {fileID: 1695954935}
@@ -874,6 +881,9 @@ Transform:
     typeName: VRTK.SDK_SteamVRController
     descriptionIndex: 0
 --- !u!1 &62562581
+<<<<<<< HEAD
+>>>>>>> parent of d65b281... Merge branch 'master' into vr
+=======
 >>>>>>> parent of d65b281... Merge branch 'master' into vr
 GameObject:
   m_ObjectHideFlags: 0
@@ -3040,8 +3050,13 @@ GameObject:
   - component: {fileID: 284013289}
   m_Layer: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Name: Mesh
   m_TagString: Land
+=======
+  m_Name: Trees
+  m_TagString: Untagged
+>>>>>>> parent of d65b281... Merge branch 'master' into vr
 =======
   m_Name: Trees
   m_TagString: Untagged
@@ -3050,6 +3065,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!23 &567415762
 MeshRenderer:
@@ -3097,6 +3113,9 @@ MeshFilter:
   m_GameObject: {fileID: 567415761}
   m_Mesh: {fileID: 958435367}
 --- !u!4 &567415764
+=======
+--- !u!4 &284013289
+>>>>>>> parent of d65b281... Merge branch 'master' into vr
 =======
 --- !u!4 &284013289
 >>>>>>> parent of d65b281... Merge branch 'master' into vr
@@ -3208,6 +3227,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 284477603}
   m_CullTransparentMesh: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &586068875
 GameObject:
@@ -3335,6 +3355,8 @@ MonoBehaviour:
   buildSpeed: 4
 --- !u!1 &602929150
 =======
+=======
+>>>>>>> parent of d65b281... Merge branch 'master' into vr
 --- !u!1001 &284647115
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -3421,6 +3443,9 @@ Transform:
   m_PrefabInstance: {fileID: 284647115}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &285474229
+<<<<<<< HEAD
+>>>>>>> parent of d65b281... Merge branch 'master' into vr
+=======
 >>>>>>> parent of d65b281... Merge branch 'master' into vr
 GameObject:
   m_ObjectHideFlags: 0
@@ -5886,6 +5911,7 @@ RectTransform:
   m_SizeDelta: {x: -20, y: 0}
   m_Pivot: {x: 0.5, y: 0.5}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &919983566
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -6107,6 +6133,9 @@ Mesh:
     size: 0
     path: 
 --- !u!1 &961401158
+=======
+--- !u!1 &490557893
+>>>>>>> parent of d65b281... Merge branch 'master' into vr
 =======
 --- !u!1 &490557893
 >>>>>>> parent of d65b281... Merge branch 'master' into vr
