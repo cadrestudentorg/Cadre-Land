@@ -87,11 +87,12 @@ public class MapGenerator : MonoBehaviour
 
 	}
 
-	private void Update()
-	{
-		if(updateOnPlay)
-			GenerateMap();
-	}
+void Start()
+    {
+
+        GenerateMap();
+
+    }
 
 	void OnValidate()
 	{

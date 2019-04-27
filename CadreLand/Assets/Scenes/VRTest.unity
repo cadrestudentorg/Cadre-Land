@@ -12831,7 +12831,7 @@ MonoBehaviour:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
-  autoUpdate: 1
+  autoUpdate: 0
   regions:
   - name: Water
     height: 0.26
