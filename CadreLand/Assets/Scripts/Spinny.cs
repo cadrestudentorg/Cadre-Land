@@ -20,9 +20,12 @@ public class Spinny : MonoBehaviour
         // float tempZ = 	IMUManager.inst.getImuDataZ();
 
         transform.Rotate(
-              IMUManager.inst.getImuDataY() * Time.deltaTime,
-            IMUManager.inst.getImuDataX() * Time.deltaTime,
-              IMUManager.inst.getImuDataZ() * Time.deltaTime);
+                 
+                 IMUManager.inst.getImuDataY() * Time.deltaTime,
+                 IMUManager.inst.getImuDataX() * Time.deltaTime,
+                 IMUManager.inst.getImuDataZ() * Time.deltaTime);
+                   
+              
 
         //print(Time.deltaTime);
         //print(transform.rotation.y);
