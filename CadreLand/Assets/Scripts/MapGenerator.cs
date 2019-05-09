@@ -57,7 +57,7 @@ public class MapGenerator : MonoBehaviour
 				{
 					noiseMap[x, y] = Mathf.Clamp01(noiseMap[x, y] - falloffMap[x, y]);
 				}
-				
+
 				//for every region
 				float currentHeight = noiseMap[x, y];
 				for(int i = 0; i < regions.Length; i++)
@@ -94,7 +94,7 @@ public class MapGenerator : MonoBehaviour
 
 	void OnValidate()
 	{
-		
+
 		if(lacunarity < 1)
 			lacunarity = 1;
 		if (octaves < 0)
@@ -109,6 +109,6 @@ public class MapGenerator : MonoBehaviour
 		public string name;
 		public float height;
 		public Color color;
-		
+
 	}
 }

@@ -19,7 +19,7 @@ PluginImporter:
         CPU: X86_64
         OS: Windows
   - first:
-      Any: 
+      Any:
     second:
       enabled: 0
       settings: {}
@@ -36,6 +36,6 @@ PluginImporter:
     second:
       enabled: 1
       settings: {}
-  userData: 
-  assetBundleName: 
-  assetBundleVariant: 
+  userData:
+  assetBundleName:
+  assetBundleVariant:
