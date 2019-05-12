@@ -31,7 +31,7 @@ public class PlaceableObj : MonoBehaviour
 				{
 					canRelease = true;
 					Anchor = hit.point + new Vector3(0, transform.localScale.x / 2.5f, 0);
-					print("Anchor = " + Anchor);
+					//-print("Anchor = " + Anchor);
 				}
 				else // obj is not above cadre land
 				{
