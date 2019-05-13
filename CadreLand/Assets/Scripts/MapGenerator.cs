@@ -35,6 +35,11 @@ public class MapGenerator : MonoBehaviour
 		falloffMap = FalloffGenerator.GenerateFalloffMap(mapChunkSize);
 	}
 
+	private void Start()
+	{
+		GenerateMap();
+	}
+
 
 	//Generate the map in the scene
 	public void GenerateMap()
@@ -52,7 +57,7 @@ public class MapGenerator : MonoBehaviour
 				{
 					noiseMap[x, y] = Mathf.Clamp01(noiseMap[x, y] - falloffMap[x, y]);
 				}
-				
+
 				//for every region
 				float currentHeight = noiseMap[x, y];
 				for(int i = 0; i < regions.Length; i++)
@@ -87,16 +92,9 @@ public class MapGenerator : MonoBehaviour
 
 	}
 
-void Start()
-    {
-
-        GenerateMap();
-
-    }
-
 	void OnValidate()
 	{
-		
+
 		if(lacunarity < 1)
 			lacunarity = 1;
 		if (octaves < 0)
@@ -111,6 +109,6 @@ void Start()
 		public string name;
 		public float height;
 		public Color color;
-		
+
 	}
 }
