@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class OceanRise : MonoBehaviour
 {
-	private Vector3 baseLevel = new Vector3(0, -11, 0);
+	public Vector3 baseLevel = new Vector3(0, -11, 0);
 	private float phase1Time;
 	private float phase2Time;
 	public Transform phase1End;
