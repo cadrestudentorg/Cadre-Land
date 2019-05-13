@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class OceanRise : MonoBehaviour
 {
-	private Vector3 baseLevel = new Vector3(0, -11, 0);
+	public Vector3 baseLevel = new Vector3(0, 16.4f, 0);
 	private float phase1Time;
 	private float phase2Time;
 	public Transform phase1End;
@@ -32,12 +32,12 @@ public class OceanRise : MonoBehaviour
     void Update()
     {
 		if(phase2)
-			transform.Translate(new Vector3(0, 0, -phase2Rate * Time.deltaTime));
+			transform.Translate(new Vector3(0, phase2Rate * Time.deltaTime, 0));
 		else
 		{
 			if (transform.position.y > phase1End.position.y)
 				phase2 = true;
-			transform.Translate(new Vector3(0, 0, -phase1Rate * Time.deltaTime));
+			transform.Translate(new Vector3(0, phase1Rate * Time.deltaTime, 0));
 		}
 	}
 }
