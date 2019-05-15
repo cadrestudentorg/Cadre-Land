@@ -4,31 +4,30 @@ using UnityEngine;
 
 public class PlaceableObj : MonoBehaviour
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-	[SerializeField] bool isBeingHeld = false;
->>>>>>> parent of a0e7bb4... updated placeableobj
+
 	[SerializeField] bool canRelease = false;
-=======
-	[SerializeField] bool isBeingHeld = false;
-	[SerializeField] bool canRelease = true;
->>>>>>> parent of 947e0b3... Intergated PlaceableObj with VRTK
 	[SerializeField] float buildSpeed = 50;
 	Vector3 Anchor;
 	Quaternion AnchorRotation;
 	Rigidbody rigbdy;
+	MeshFilter meshFilter;
+	float height;
+
+	VRTK_InteractableObject interactable;
 
 	void Start()
 	{
 		rigbdy = GetComponent<Rigidbody>();
 		rigbdy.useGravity = false;
+		interactable = GetComponent<VRTK_InteractableObject>();
+		meshFilter = GetComponent<MeshFilter>();
+		height = meshFilter.mesh.bounds.size.x;
 	}
 
 	// Update is called once per frame
 	void Update()
 	{
-		if (isBeingHeld)
+		if (interactable.IsGrabbed())
 		{
 			//Check ground below
 			RaycastHit hit;
@@ -38,18 +37,17 @@ public class PlaceableObj : MonoBehaviour
 				if (hit.transform.tag == "Land")
 				{
 					canRelease = true;
-					Anchor = hit.point + new Vector3(0, transform.localScale.x / 2.5f, 0);
-					//-print("Anchor = " + Anchor);
-				}
-				else // obj is not above cadre land
+					Anchor = hit.point + new Vector3(0, height / 2.5f, 0);
+					//Anchor = hit.point;
+				} else if(canRelease)
 				{
-					canRelease = false;
+					ReleaseObject()
 				}
 
 			}
 		}
 	}
-	
+
 	public void GrabObject(GameObject GrabParent)
 	{
 		this.transform.parent = GrabParent.transform;
@@ -61,10 +59,9 @@ public class PlaceableObj : MonoBehaviour
 	{
 		if (canRelease)
 		{
-			this.transform.parent = null;
 			AnchorRotation = this.transform.rotation;
-			isBeingHeld = false;
-			rigbdy.AddForce(Vector3.down * buildSpeed * 1000);
+			//isBeingHeld = false;
+			rigbdy.AddForce(Vector3.down * buildSpeed);
 			//rigbdy.useGravity = true;
 
 			return true;
