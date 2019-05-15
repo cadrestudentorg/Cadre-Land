@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using VRTK;
 
 public class PlaceableObj : MonoBehaviour
 {
@@ -41,7 +42,7 @@ public class PlaceableObj : MonoBehaviour
 					//Anchor = hit.point;
 				} else if(canRelease)
 				{
-					ReleaseObject()
+					ReleaseObject();
 				}
 
 			}
@@ -51,7 +52,6 @@ public class PlaceableObj : MonoBehaviour
 	public void GrabObject(GameObject GrabParent)
 	{
 		this.transform.parent = GrabParent.transform;
-		isBeingHeld = true;
 	}
 
 	[ContextMenu("Release")]
