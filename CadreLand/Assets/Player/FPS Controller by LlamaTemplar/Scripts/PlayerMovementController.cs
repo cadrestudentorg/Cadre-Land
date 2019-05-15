@@ -20,6 +20,11 @@ public class PlayerMovementController : MonoBehaviour
 
     private CharacterController charCtrl;
 
+    void Awake()
+    {
+        currentHealth = startingHealth;
+    }
+
     void Start()
     {
         charCtrl = GetComponent<CharacterController>();
