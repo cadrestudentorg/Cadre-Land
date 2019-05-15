@@ -36,7 +36,7 @@ public class HeadDamage : MonoBehaviour
 
     }
 
-    void OnTriggerEnter(Collider other)
+    void OnCollisionEnter(Collider other)
     {
 
 
