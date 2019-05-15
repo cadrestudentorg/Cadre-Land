@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="4bde3fd5-94fd-4a30-9051-e703d2ac267d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CadreLand/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CadreLand/.idea/contentModel.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.CadreLand/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CadreLand/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/CadreLand.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/CadreLand.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlaceableObj.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlaceableObj.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -35,24 +32,26 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlaceableObj.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+            <state relative-caret-position="762">
+              <caret line="59" column="53" selection-start-line="59" selection-start-column="53" selection-end-line="59" selection-end-column="53" />
               <folding>
-                <marker date="1557515667157" expanded="false" signature="6:78" ph="..." />
-                <marker date="1557515667157" expanded="true" signature="121:1615" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="329:402" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="454:968" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="476:965" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="627:961" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="729:878" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="918:955" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="1017:1093" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="1149:1444" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="1170:1382" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="1508:1613" ph="{...}" />
+                <marker date="1557880591670" expanded="false" signature="6:90" ph="..." />
+                <marker date="1557880591670" expanded="true" signature="133:1857" ph="{...}" />
+                <marker date="1557880591670" expanded="true" signature="377:596" ph="{...}" />
+                <marker date="1557880591670" expanded="true" signature="648:1235" ph="{...}" />
+                <marker date="1557880591670" expanded="true" signature="683:1183" ph="{...}" />
+                <marker date="1557880591670" expanded="true" signature="834:1179" ph="{...}" />
+                <marker date="1557880591670" expanded="true" signature="936:1096" ph="{...}" />
+                <marker date="1557880591670" expanded="true" signature="1032:1090" ph="/* Anchor = hit.point; ... */" />
+                <marker date="1557880591670" expanded="true" signature="1136:1173" ph="{...}" />
+                <marker date="1557880591670" expanded="true" signature="1203:1231" ph="{...}" />
+                <marker date="1557880591670" expanded="true" signature="1284:1338" ph="{...}" />
+                <marker date="1557880591670" expanded="true" signature="1394:1686" ph="{...}" />
+                <marker date="1557880591670" expanded="true" signature="1415:1624" ph="{...}" />
+                <marker date="1557880591670" expanded="true" signature="1750:1855" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -162,9 +161,10 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/VRTK/Source/Scripts/Utilities/SDK/VRTK_SDKManager.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5584">
+            <state relative-caret-position="5152">
               <caret line="366" selection-start-line="366" selection-end-line="366" />
               <folding>
+                <marker date="1557514506098" expanded="true" signature="45:55740" ph="{...}" />
                 <marker date="1557514506098" expanded="false" signature="58:525" ph="..." />
                 <marker date="1557514506098" expanded="true" signature="531:680" ph="/// The SDK Manager script provides configuration of supported SDKs and manages a list of VRTK_SDKSetups to use. ... " />
                 <marker date="1557514506098" expanded="true" signature="736:55738" ph="{...}" />
@@ -349,7 +349,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/VRTK/Source/SDK/Base/SDK_BaseController.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state>
@@ -702,27 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlaceableObj.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-          <folding>
-            <marker date="1557515667157" expanded="false" signature="6:78" ph="..." />
-            <marker date="1557515667157" expanded="true" signature="121:1615" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="329:402" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="454:968" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="476:965" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="627:961" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="729:878" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="918:955" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="1017:1093" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="1149:1444" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="1170:1382" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="1508:1613" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/VRTK/Source/SDK/Simulator/SDK_InputSimulator.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3600">
@@ -824,9 +803,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/VRTK/Source/Scripts/Utilities/SDK/VRTK_SDKManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5584">
+        <state relative-caret-position="5152">
           <caret line="366" selection-start-line="366" selection-end-line="366" />
           <folding>
+            <marker date="1557514506098" expanded="true" signature="45:55740" ph="{...}" />
             <marker date="1557514506098" expanded="false" signature="58:525" ph="..." />
             <marker date="1557514506098" expanded="true" signature="531:680" ph="/// The SDK Manager script provides configuration of supported SDKs and manages a list of VRTK_SDKSetups to use. ... " />
             <marker date="1557514506098" expanded="true" signature="736:55738" ph="{...}" />
@@ -1141,6 +1121,29 @@
             <marker date="1557514505907" expanded="true" signature="29995:30396" ph="{...}" />
             <marker date="1557514505907" expanded="true" signature="30560:30751" ph="{...}" />
             <marker date="1557514505907" expanded="true" signature="30805:30996" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlaceableObj.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="762">
+          <caret line="59" column="53" selection-start-line="59" selection-start-column="53" selection-end-line="59" selection-end-column="53" />
+          <folding>
+            <marker date="1557880591670" expanded="false" signature="6:90" ph="..." />
+            <marker date="1557880591670" expanded="true" signature="133:1857" ph="{...}" />
+            <marker date="1557880591670" expanded="true" signature="377:596" ph="{...}" />
+            <marker date="1557880591670" expanded="true" signature="648:1235" ph="{...}" />
+            <marker date="1557880591670" expanded="true" signature="683:1183" ph="{...}" />
+            <marker date="1557880591670" expanded="true" signature="834:1179" ph="{...}" />
+            <marker date="1557880591670" expanded="true" signature="936:1096" ph="{...}" />
+            <marker date="1557880591670" expanded="true" signature="1032:1090" ph="/* Anchor = hit.point; ... */" />
+            <marker date="1557880591670" expanded="true" signature="1136:1173" ph="{...}" />
+            <marker date="1557880591670" expanded="true" signature="1203:1231" ph="{...}" />
+            <marker date="1557880591670" expanded="true" signature="1284:1338" ph="{...}" />
+            <marker date="1557880591670" expanded="true" signature="1394:1686" ph="{...}" />
+            <marker date="1557880591670" expanded="true" signature="1415:1624" ph="{...}" />
+            <marker date="1557880591670" expanded="true" signature="1750:1855" ph="{...}" />
           </folding>
         </state>
       </provider>
