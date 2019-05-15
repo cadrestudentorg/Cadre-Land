@@ -5,6 +5,10 @@ using UnityEngine;
 public class PlaceableObj : MonoBehaviour
 {
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+	[SerializeField] bool isBeingHeld = false;
+>>>>>>> parent of a0e7bb4... updated placeableobj
 	[SerializeField] bool canRelease = false;
 =======
 	[SerializeField] bool isBeingHeld = false;
