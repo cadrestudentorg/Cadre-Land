@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.52156293, g: 0.57220197, b: 0.62483144, a: 1}
+  m_IndirectSpecularColor: {r: 0.48590302, g: 0.53831345, b: 0.60644436, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -903,8 +903,8 @@ MonoBehaviour:
   fogScale: 1
   dayAtmosphereThickness: 1.2
   nightAtmosphereThickness: 1.4
-  dayRotateSpeed: {x: 0, y: 0, z: 0}
-  nightRotateSpeed: {x: 0, y: 0, z: 0}
+  dayRotateSpeed: {x: 2, y: 0, z: 0}
+  nightRotateSpeed: {x: 1, y: 0, z: 0}
 --- !u!114 &46019364
 MonoBehaviour:
   m_ObjectHideFlags: 0

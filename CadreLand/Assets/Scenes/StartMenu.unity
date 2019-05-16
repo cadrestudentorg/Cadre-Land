@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.48507267, g: 0.53747284, b: 0.6059048, a: 1}
+  m_IndirectSpecularColor: {r: 0.48590302, g: 0.53831345, b: 0.60644436, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -9256,8 +9256,8 @@ MonoBehaviour:
   fogScale: 1
   dayAtmosphereThickness: 1.2
   nightAtmosphereThickness: 1.4
-  dayRotateSpeed: {x: 2, y: 0, z: 0}
-  nightRotateSpeed: {x: 1, y: 0, z: 0}
+  dayRotateSpeed: {x: 3, y: 0, z: 0}
+  nightRotateSpeed: {x: 2, y: 0, z: 0}
 --- !u!114 &722908389
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -21069,7 +21069,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &1343461393
 Transform:
   m_ObjectHideFlags: 0
