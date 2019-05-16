@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class ExitGame : MonoBehaviour
 {
@@ -19,8 +20,31 @@ public class ExitGame : MonoBehaviour
 
             print("hi");
             Application.Quit();
-
-
         }
+            if (Input.GetKey("3"))
+            {
+            print("reset");
+            SceneManager.LoadScene("StartMenu");
+               // PublicVariables.pigments = -.85f;
+               // PublicVarPig.pigmentsCol = 0;
+            }
+
+        if (Input.GetKey("4"))
+        {
+            print("reset");
+            SceneManager.LoadScene("CLFreeplay");
+            // PublicVariables.pigments = -.85f;
+            // PublicVarPig.pigmentsCol = 0;
+        }
+
+        if (Input.GetKey("5"))
+        {
+            print("reset");
+            SceneManager.LoadScene("CL_3Gods");
+            // PublicVariables.pigments = -.85f;
+            // PublicVarPig.pigmentsCol = 0;
+        }
+
+
     }
 }
