@@ -14,15 +14,15 @@ public class PlayerMovementController : MonoBehaviour
     private float verticalVelocity;
     public bool isMoving = false;
     private Vector3 PlayerMovementTo;
-    public int startingHealth = 100;
-    public int currentHealth;
-    public int health = 2;
+   // public int startingHealth = 100;
+   // public int currentHealth;
+   // public int health = 2;
 
     private CharacterController charCtrl;
 
     void Awake()
     {
-        currentHealth = startingHealth;
+      //  currentHealth = startingHealth;
     }
 
     void Start()
@@ -86,7 +86,7 @@ public class PlayerMovementController : MonoBehaviour
 
         return false;
     }
-
+    /*
     public void TakeDamage(int amount)
     {
         //damaged = true;
@@ -102,7 +102,7 @@ public class PlayerMovementController : MonoBehaviour
         }
 
     }
-
+    */
     void OnTriggerEnter(Collider other)
     {
 
@@ -117,7 +117,7 @@ public class PlayerMovementController : MonoBehaviour
             GainHealth(10);
         }
         */
-
+        /*
         if (other.gameObject.CompareTag("Water"))
         {
             print("you wet");
@@ -135,7 +135,7 @@ public class PlayerMovementController : MonoBehaviour
 
 
         }
-
+        */
     }
 
 
