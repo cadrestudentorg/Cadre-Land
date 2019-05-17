@@ -35,6 +35,11 @@ public class MapGenerator : MonoBehaviour
 		falloffMap = FalloffGenerator.GenerateFalloffMap(mapChunkSize);
 	}
 
+	private void Start()
+	{
+		GenerateMap();
+	}
+
 
 	//Generate the map in the scene
 	public void GenerateMap()
@@ -85,12 +90,6 @@ public class MapGenerator : MonoBehaviour
 			display.DrawTexture(TextureGenerator.TextureFromHeightMap(FalloffGenerator.GenerateFalloffMap(mapChunkSize)));
 		}
 
-	}
-
-	private void Update()
-	{
-		if(updateOnPlay)
-			GenerateMap();
 	}
 
 	void OnValidate()
