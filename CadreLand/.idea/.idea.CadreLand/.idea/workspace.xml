@@ -2,7 +2,35 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bde3fd5-94fd-4a30-9051-e703d2ac267d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CadreLand/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CadreLand/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.CadreLand/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CadreLand/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/export.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/export.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/export_a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/export_a.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/intro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/intro.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/troubleshooting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/troubleshooting.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/imgs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/imgs/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/imgs/Materials/d_be.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/imgs/Materials/d_be.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/imgs/d_be.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/imgs/d_be.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/index.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/style.css.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/tinker.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/tinker.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/OBJExporter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/OBJExporter.cs.meta" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Player/FPS Controller by LlamaTemplar/Scripts/PlayerMovementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/FPS Controller by LlamaTemplar/Scripts/PlayerMovementController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/CadreLand.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/CadreLand.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlaceableObj.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlaceableObj.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
@@ -14,50 +42,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/unity-chan!/Unity-chan! Model/Scripts/UnityChanControlScriptWithRgidBody.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="30" />
-              <folding>
-                <marker date="1547240522000" expanded="true" signature="0:92" ph="/* Mecanimのアニメーションデータが、原点で移動しない場合の Rigidbody付きコントローラ ... */" />
-                <marker date="1547240522000" expanded="false" signature="99:137" ph="..." />
-                <marker date="1547240522000" expanded="true" signature="158:6535" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="365:6533" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="668:700" ph="/* 以下キャラクターコントローラ用パラメタ ... */" />
-                <marker date="1547240522000" expanded="true" signature="1658:2044" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="2118:5704" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="2868:2917" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="2937:2986" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="3027:3355" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="3029:3087" ph="/* スペースキーを入力したら ... */" />
-                <marker date="1547240522000" expanded="true" signature="3136:3350" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="3201:3344" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="3531:3603" ph="/* 以下、Animatorの各ステート中での処理 ... */" />
-                <marker date="1547240522000" expanded="true" signature="3651:3743" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="3708:3738" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="3746:3785" ph="/* JUMP中の処理 ... */" />
-                <marker date="1547240522000" expanded="true" signature="3837:5097" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="3975:5092" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="4027:5008" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="4035:4173" ph="/* 以下JUMP00アニメーションについているカーブJumpHeightとGravityControl ... */" />
-                <marker date="1547240522000" expanded="true" signature="4655:5001" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="4704:4912" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="5100:5139" ph="/* IDLE中の処理 ... */" />
-                <marker date="1547240522000" expanded="true" signature="5191:5392" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="5248:5278" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="5346:5387" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="5395:5434" ph="/* REST中の処理 ... */" />
-                <marker date="1547240522000" expanded="true" signature="5486:5700" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="5492:5618" ph="/* cameraObject.SendMessage(&quot;setCameraPositionFrontView&quot;);&#9;&#9;// カメラを正面に切り替える ... */" />
-                <marker date="1547240522000" expanded="true" signature="5653:5695" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="5721:6370" ph="{...}" />
-                <marker date="1547240522000" expanded="true" signature="6424:6530" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Assets/Player/FPS Controller by LlamaTemplar/Scripts/PlayerMovementController.cs">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,7 +81,6 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MeshGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FalloffGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8D2DEAE-EB3A-4471-B3E2-24C2A136823A/48/75e1a067/Transform.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/Assets/unity-chan!/Unity-chan! Model/Scripts/UnityChanControlScriptWithRgidBody.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Builder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Player/FPS Controller by LlamaTemplar/Scripts/PlayerMovementController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/VRTK/Source/SDK/Base/SDK_BaseController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -748,41 +731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="208">
           <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="30" />
-          <folding>
-            <marker date="1547240522000" expanded="true" signature="0:92" ph="/* Mecanimのアニメーションデータが、原点で移動しない場合の Rigidbody付きコントローラ ... */" />
-            <marker date="1547240522000" expanded="false" signature="99:137" ph="..." />
-            <marker date="1547240522000" expanded="true" signature="158:6535" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="365:6533" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="668:700" ph="/* 以下キャラクターコントローラ用パラメタ ... */" />
-            <marker date="1547240522000" expanded="true" signature="1658:2044" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="2118:5704" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="2868:2917" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="2937:2986" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="3027:3355" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="3029:3087" ph="/* スペースキーを入力したら ... */" />
-            <marker date="1547240522000" expanded="true" signature="3136:3350" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="3201:3344" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="3531:3603" ph="/* 以下、Animatorの各ステート中での処理 ... */" />
-            <marker date="1547240522000" expanded="true" signature="3651:3743" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="3708:3738" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="3746:3785" ph="/* JUMP中の処理 ... */" />
-            <marker date="1547240522000" expanded="true" signature="3837:5097" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="3975:5092" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="4027:5008" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="4035:4173" ph="/* 以下JUMP00アニメーションについているカーブJumpHeightとGravityControl ... */" />
-            <marker date="1547240522000" expanded="true" signature="4655:5001" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="4704:4912" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="5100:5139" ph="/* IDLE中の処理 ... */" />
-            <marker date="1547240522000" expanded="true" signature="5191:5392" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="5248:5278" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="5346:5387" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="5395:5434" ph="/* REST中の処理 ... */" />
-            <marker date="1547240522000" expanded="true" signature="5486:5700" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="5492:5618" ph="/* cameraObject.SendMessage(&quot;setCameraPositionFrontView&quot;);&#9;&#9;// カメラを正面に切り替える ... */" />
-            <marker date="1547240522000" expanded="true" signature="5653:5695" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="5721:6370" ph="{...}" />
-            <marker date="1547240522000" expanded="true" signature="6424:6530" ph="{...}" />
-          </folding>
         </state>
       </provider>
     </entry>
