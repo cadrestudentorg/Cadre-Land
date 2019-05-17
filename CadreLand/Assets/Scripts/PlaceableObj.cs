@@ -58,7 +58,6 @@ public class PlaceableObj : MonoBehaviour
 	public void GrabObject(GameObject GrabParent)
 	{
 		this.transform.parent = GrabParent.transform;
-		isBeingHeld = true;
 	}
 
 	[ContextMenu("Release")]
