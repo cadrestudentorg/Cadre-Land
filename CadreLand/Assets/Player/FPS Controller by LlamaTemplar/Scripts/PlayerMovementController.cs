@@ -11,12 +11,14 @@ public class PlayerMovementController : MonoBehaviour
     private float verticalVelocity;
 	public bool isMoving = false;
 	private Vector3 PlayerMovementTo;
+	private Animator anim;
 
 	private CharacterController charCtrl;
 
     void Start()
     {
         charCtrl = GetComponent<CharacterController>();
+        anim = GetComponent<Animator> ();
       
     }
 
@@ -34,21 +36,23 @@ public class PlayerMovementController : MonoBehaviour
 		float deltaX = Input.GetAxis("Horizontal") * speed;
 		float deltaZ = Input.GetAxis("Vertical") * speed;
 
-		if (deltaX > 0 || deltaZ > 0)
-			isMoving = true;
+		if (deltaX > 0 || deltaX < 0 || deltaZ < 0 || deltaZ > 0)
+			anim.SetBool("isRunning",true);
 		else
-			isMoving = false;
+			anim.SetBool("isRunning",false);
 
 		if (IsGrounded())
 		{
 			if (Input.GetKeyDown(KeyCode.Space))
 			{
 				verticalVelocity = jumpPower;
+				anim.SetBool("isJumping",true);
 			}
 		}
 		else // apply gravity if the player has jumped
 		{
 			verticalVelocity -= gravity * Time.deltaTime;
+			anim.SetBool("isJumping",false);
 		}
 
 
