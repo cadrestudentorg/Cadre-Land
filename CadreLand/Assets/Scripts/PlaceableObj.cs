@@ -5,7 +5,6 @@ using VRTK;
 
 public class PlaceableObj : MonoBehaviour
 {
-	[SerializeField] bool isBeingHeld = false;
 	[SerializeField] bool canRelease = false;
 	[SerializeField] float buildSpeed = 50;
 	Vector3 Anchor;
@@ -59,7 +58,6 @@ public class PlaceableObj : MonoBehaviour
 	public void GrabObject(GameObject GrabParent)
 	{
 		this.transform.parent = GrabParent.transform;
-		isBeingHeld = true;
 	}
 
 	[ContextMenu("Release")]
