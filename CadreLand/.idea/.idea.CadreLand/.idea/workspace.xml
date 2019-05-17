@@ -4,10 +4,34 @@
     <list default="true" id="4bde3fd5-94fd-4a30-9051-e703d2ac267d" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CadreLand/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CadreLand/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CadreLand/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CadreLand/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/export.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/export.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/export_a.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/export_a.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/intro.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/intro.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/troubleshooting.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/docs/troubleshooting.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/imgs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/imgs/Materials.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/imgs/Materials/d_be.mat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/imgs/Materials/d_be.mat.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/imgs/d_be.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/imgs/d_be.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/index.html.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/style.css.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/tinker.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/Documentation/tinker.obj.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/OBJExporter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/OBJExport/OBJExporter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Player/FPS Controller by LlamaTemplar/Scripts/PlayerMovementController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Player/FPS Controller by LlamaTemplar/Scripts/PlayerMovementController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/CadreLand.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/CadreLand.unity" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scripts/PlaceableObj.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/PlaceableObj.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,469 +42,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Builder.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="28" column="75" selection-start-line="28" selection-start-column="75" selection-end-line="28" selection-end-column="75" />
-              <folding>
-                <marker date="1555305512843" expanded="false" signature="6:78" ph="..." />
-                <marker date="1555305512843" expanded="true" signature="116:919" ph="{...}" />
-                <marker date="1555305512843" expanded="true" signature="188:209" ph="{...}" />
-                <marker date="1555305512843" expanded="true" signature="267:907" ph="{...}" />
-                <marker date="1555305512843" expanded="true" signature="314:901" ph="{...}" />
-                <marker date="1555305512843" expanded="true" signature="521:877" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlaceableObj.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-              <folding>
-                <marker date="1557515667157" expanded="false" signature="6:78" ph="..." />
-                <marker date="1557515667157" expanded="true" signature="121:1615" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="329:402" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="454:968" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="476:965" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="627:961" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="729:878" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="918:955" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="1017:1093" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="1149:1444" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="1170:1382" ph="{...}" />
-                <marker date="1557515667157" expanded="true" signature="1508:1613" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/VRTK/Source/SDK/Simulator/SDK_InputSimulator.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3600">
-              <caret line="352" selection-start-line="352" selection-end-line="352" />
-              <folding>
-                <marker date="1557514505941" expanded="true" signature="14:23835" ph="{...}" />
-                <marker date="1557514505941" expanded="false" signature="27:121" ph="..." />
-                <marker date="1557514505941" expanded="true" signature="127:487" ph="/// The `[VRSimulator_CameraRig]` prefab is a mock Camera Rig set up that can be used to develop with VRTK withou ... " />
-                <marker date="1557514505941" expanded="true" signature="539:23833" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="554:625" ph="/// Mouse input mode types ... " />
-                <marker date="1557514505941" expanded="true" signature="660:988" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="683:788" ph="/// Mouse movement is always treated as mouse input. ... " />
-                <marker date="1557514505941" expanded="true" signature="821:946" ph="/// Mouse movement is only treated as movement when a button is pressed. ... " />
-                <marker date="1557514505941" expanded="false" signature="998:5622" ph="Public fields" />
-                <marker date="1557514505941" expanded="false" signature="5631:6499" ph="Protected fields" />
-                <marker date="1557514505941" expanded="true" signature="6509:6818" ph="/// The FindInScene method is used to find the `[VRSimulator_CameraRig]` GameObject within the current scene. ... " />
-                <marker date="1557514505941" expanded="true" signature="6865:7480" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="6930:7434" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="7095:7420" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="7520:7622" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="7665:9909" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="9121:9755" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="9244:9681" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="9953:10088" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="10129:13070" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="10193:10331" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="10383:10463" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="10538:10903" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="10589:10742" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="10803:10889" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="10920:11046" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="11093:11357" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="11135:11255" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="11276:11343" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="11405:11879" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="11471:11658" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="11679:11865" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="11904:11963" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="11980:12935" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="12127:12200" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="12303:12377" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="12419:12518" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="12539:12617" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="12679:12767" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="12832:12921" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="13001:13060" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="13149:13561" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="13276:13551" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="13439:13537" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="13619:14680" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="13799:14670" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="13955:14656" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="14045:14164" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="14189:14307" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="14449:14638" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="14726:16457" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="14827:16447" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="14887:15612" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="15013:15331" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="15356:15594" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="15633:16433" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="15759:16077" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="16102:16415" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="16506:17274" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="16607:17264" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="16904:16974" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="17022:17250" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="17323:18033" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="17462:17569" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="17618:17726" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="17766:17872" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="17918:18023" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="18075:18674" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="18325:18664" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="18716:18971" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="18824:18961" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="19017:22281" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="19255:19356" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="19840:21716" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="19937:20067" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="20088:20218" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="20731:20813" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="20867:20944" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="21301:21702" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="21733:22225" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="22337:22455" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="22506:22917" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="22575:22716" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="22733:22907" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="23009:23827" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="23057:23165" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="23219:23330" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="23382:23489" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="23544:23656" ph="{...}" />
-                <marker date="1557514505941" expanded="true" signature="23709:23817" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Assets/VRTK/Source/Scripts/Utilities/SDK/VRTK_SDKManager.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="5584">
-              <caret line="366" selection-start-line="366" selection-end-line="366" />
-              <folding>
-                <marker date="1557514506098" expanded="false" signature="58:525" ph="..." />
-                <marker date="1557514506098" expanded="true" signature="531:680" ph="/// The SDK Manager script provides configuration of supported SDKs and manages a list of VRTK_SDKSetups to use. ... " />
-                <marker date="1557514506098" expanded="true" signature="736:55738" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="751:962" ph="/// A helper class that simply holds references to both the SDK_ScriptingDefineSymbolPredicateAttribute and the m ... " />
-                <marker date="1557514506098" expanded="true" signature="1025:2010" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="1048:1129" ph="/// The predicate attribute. ... " />
-                <marker date="1557514506098" expanded="true" signature="1225:1340" ph="/// The method info of the method the attribute is defined on. ... " />
-                <marker date="1557514506098" expanded="true" signature="1405:1750" ph="/// Event Payload. Constructs a new instance with the specified predicate attribute and associated method info. ... " />
-                <marker date="1557514506098" expanded="true" signature="1882:2000" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="2020:2563" ph="/// Event Payload ... " />
-                <marker date="1557514506098" expanded="true" signature="2612:3099" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="2909:3089" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="3109:3301" ph="/// Event Payload ... " />
-                <marker date="1557514506098" expanded="true" signature="3425:3557" ph="/// All found scripting define symbol predicate attributes with associated method info. ... " />
-                <marker date="1557514506098" expanded="true" signature="3711:3817" ph="/// Specifies the fallback SDK types for every base SDK type. ... " />
-                <marker date="1557514506098" expanded="true" signature="3936:4236" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="4247:4327" ph="/// All available system SDK infos. ... " />
-                <marker date="1557514506098" expanded="true" signature="4437:4521" ph="/// All available boundaries SDK infos. ... " />
-                <marker date="1557514506098" expanded="true" signature="4635:4716" ph="/// All available headset SDK infos. ... " />
-                <marker date="1557514506098" expanded="true" signature="4827:4911" ph="/// All available controller SDK infos. ... " />
-                <marker date="1557514506098" expanded="true" signature="5026:5352" ph="/// All installed system SDK infos. This is a subset of `AvailableSystemSDKInfos`. ... " />
-                <marker date="1557514506098" expanded="true" signature="5462:5796" ph="/// All installed boundaries SDK infos. This is a subset of `AvailableBoundariesSDKInfos`. ... " />
-                <marker date="1557514506098" expanded="true" signature="5910:6238" ph="/// All installed headset SDK infos. This is a subset of `AvailableHeadsetSDKInfos`. ... " />
-                <marker date="1557514506098" expanded="true" signature="6349:6683" ph="/// All installed controller SDK infos. This is a subset of `AvailableControllerSDKInfos`. ... " />
-                <marker date="1557514506098" expanded="true" signature="6798:6911" ph="/// The singleton instance to access the SDK Manager variables from. ... " />
-                <marker date="1557514506098" expanded="true" signature="6958:7391" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="6984:7381" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="7037:7332" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="7217:7314" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="7401:7510" ph="/// A collection of behaviours to toggle on loaded setup change. ... " />
-                <marker date="1557514506098" expanded="true" signature="7613:7875" ph="/// The ValidInstance method returns whether the SDK Manager isntance is valid (i.e. it's not null). ... " />
-                <marker date="1557514506098" expanded="true" signature="7918:7977" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="7987:8513" ph="/// The AttemptAddBehaviourToToggleOnLoadedSetupChange method will attempt to add the given behaviour to the load ... " />
-                <marker date="1557514506098" expanded="true" signature="8613:8888" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="8656:8795" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="8898:9281" ph="/// The AttemptRemoveBehaviourToToggleOnLoadedSetupChange method will attempt to remove the given behaviour from  ... " />
-                <marker date="1557514506098" expanded="true" signature="9384:9669" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="9427:9633" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="9679:9881" ph="/// The ProcessDelayedToggleBehaviours method will attempt to addd the behaviours in the `delayedToggleBehaviours ... " />
-                <marker date="1557514506098" expanded="true" signature="9941:10299" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="9984:10289" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="10102:10226" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="10309:10627" ph="/// The SubscribeLoadedSetupChanged method attempts to register the given callback with the `LoadedSetupChanged`  ... " />
-                <marker date="1557514506098" expanded="true" signature="10722:10915" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="10765:10879" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="10925:11250" ph="/// The UnsubscribeLoadedSetupChanged method attempts to unregister the given callback from the `LoadedSetupChang ... " />
-                <marker date="1557514506098" expanded="true" signature="11347:11540" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="11390:11504" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="11550:11779" ph="/// The GetLoadedSDKSetup method returns the current loaded SDK Setup for the SDK Manager instance. ... " />
-                <marker date="1557514506098" expanded="true" signature="11835:11986" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="11878:11951" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="11996:12318" ph="/// The GetAllSDKSetups method returns all valid SDK Setups attached to the SDK Manager instance. ... " />
-                <marker date="1557514506098" expanded="true" signature="12374:12536" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="12417:12485" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="12546:13136" ph="/// The AttemptTryLoadSDKSetup method attempts to load a valid VRTK_SDKSetup from a list if the SDK Manager insta ... " />
-                <marker date="1557514506098" expanded="true" signature="13260:13480" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="13303:13444" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="13490:13854" ph="/// The AttemptUnloadSDKSetup method tries to load a valid VRTK_SDKSetup from setups if the SDK Manager instance  ... " />
-                <marker date="1557514506098" expanded="true" signature="13947:14156" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="13990:14120" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="14166:14553" ph="/// The AttemptUnloadSDKSetup method attempts to unload the currently loaded VRTK_SDKSetup, if there is one and i ... " />
-                <marker date="1557514506098" expanded="true" signature="14626:14814" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="14669:14778" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="15093:15275" ph="/// The active (i.e. to be added to the PlayerSettings) scripting define symbol predicate attributes that have no ... " />
-                <marker date="1557514506098" expanded="true" signature="16483:16602" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="16911:17021" ph="/// The loaded SDK Setup. `null` if no setup is currently loaded. ... " />
-                <marker date="1557514506098" expanded="true" signature="17062:17413" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="17088:17353" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="17219:17301" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="17570:17684" ph="/// All behaviours that need toggling whenever `loadedSetup` changes. ... " />
-                <marker date="1557514506098" expanded="true" signature="18320:18425" ph="/// The event invoked whenever the loaded SDK Setup changes. ... " />
-                <marker date="1557514506098" expanded="true" signature="18523:19309" ph="/// The ManageScriptingDefineSymbols method manages (i.e. adds and removes) the scripting define symbols of the P ... " />
-                <marker date="1557514506098" expanded="true" signature="19425:24988" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="19566:19624" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="20050:20466" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="21369:23009" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="21814:21880" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="22005:22071" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="22492:22995" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="22738:22922" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="23218:24942" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="23893:23959" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="24204:24420" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="24551:24763" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="24801:24928" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="24998:25496" ph="/// The ManageVRSettings method manages (i.e. adds and removes) the VR SDKs of the PlayerSettings for the current ... " />
-                <marker date="1557514506098" expanded="true" signature="25545:27888" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="25656:25708" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="25918:26049" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="26498:27878" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="26577:26643" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="26967:27085" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="27327:27540" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="27561:27642" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="27905:28151" ph="/// The AddBehaviourToToggleOnLoadedSetupChange method adds a behaviour to the list of behaviours to toggle when  ... " />
-                <marker date="1557514506098" expanded="true" signature="28232:28633" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="28319:28493" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="28552:28623" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="28643:28898" ph="/// The RemoveBehaviourToToggleOnLoadedSetupChange method removes a behaviour of the list of behaviours to toggle ... " />
-                <marker date="1557514506098" expanded="true" signature="28982:29072" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="29082:29326" ph="/// The TryLoadSDKSetupFromList method tries to load a valid VRTK_SDKSetup from setups. ... " />
-                <marker date="1557514506098" expanded="true" signature="29405:31335" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="29521:29990" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="29725:29956" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="30031:30392" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="30062:30199" ph="/* Use the SDK Setup for the current VR Device if it's working already ... */" />
-                <marker date="1557514506098" expanded="true" signature="30409:31218" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="30967:31204" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="31345:31993" ph="/// The TryLoadSDKSetup method tries to load a valid VRTK_SDKSetup from a list. ... " />
-                <marker date="1557514506098" expanded="true" signature="32103:35566" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="32152:32204" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="32271:32405" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="32674:33165" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="32871:33151" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="33417:33499" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="33768:35472" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="33875:34074" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="34387:35050" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="35593:36275" ph="/// The SetLoadedSDKSetupToPopulateObjectReferences method sets a given VRTK_SDKSetup as the loaded SDK Setup to  ... " />
-                <marker date="1557514506098" expanded="true" signature="36360:36656" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="36415:36612" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="36673:36916" ph="/// The UnloadSDKSetup method unloads the currently loaded VRTK_SDKSetup, if there is one. ... " />
-                <marker date="1557514506098" expanded="true" signature="36975:38160" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="37022:37091" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="37231:37313" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="37341:37466" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="37512:37643" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="37736:38150" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="37850:38117" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="38194:38724" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="38757:39039" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="38958:39029" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="39073:39566" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="39140:39232" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="39291:39384" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="39494:39556" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="39605:40083" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="39650:39968" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="39867:39954" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="40008:40073" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="40156:40343" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="40271:40333" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="40456:43209" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="40777:41198" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="41277:42894" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="41440:42880" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="41957:42472" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="43255:43758" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="43322:43414" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="43563:43656" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="43814:44541" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="44000:44434" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="44278:44341" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="44598:45328" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="44784:45220" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="45064:45127" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="45379:46385" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="45501:45565" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="45631:46375" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="45739:46220" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="46395:46597" ph="/// Populates `AvailableScriptingDefineSymbolPredicateInfos` with all the available SDK_ScriptingDefineSymbolPred ... " />
-                <marker date="1557514506098" expanded="true" signature="46680:48736" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="46903:48511" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="47062:48497" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="47500:47578" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="47684:48311" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="48746:48860" ph="/// Populates the various lists of available and installed SDK infos. ... " />
-                <marker date="1557514506098" expanded="true" signature="48928:51245" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="51255:51964" ph="/// Populates the lists of available and installed SDK infos for a specific SDK base type. ... " />
-                <marker date="1557514506098" expanded="true" signature="52422:53638" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="53444:53625" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="53665:53841" ph="/// Calls `ManageScriptingDefineSymbols` and `ManageVRSettings` (both without forcing) at the appropriate times w ... " />
-                <marker date="1557514506098" expanded="true" signature="53953:54389" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="54028:54080" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="54222:54379" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="54399:54512" ph="/// Removes scripting define symbols used by previous VRTK versions. ... " />
-                <marker date="1557514506098" expanded="true" signature="54577:55725" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="55048:55100" ph="{...}" />
-                <marker date="1557514506098" expanded="true" signature="55349:55715" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Assets/VRTK/Source/SDK/Base/SDK_BaseController.cs">
+        <entry file="file://$PROJECT_DIR$/Assets/Player/FPS Controller by LlamaTemplar/Scripts/PlayerMovementController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
+            <state relative-caret-position="319">
+              <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
               <folding>
-                <marker date="1557514505907" expanded="true" signature="46:30998" ph="{...}" />
-                <marker date="1557514505907" expanded="false" signature="59:109" ph="..." />
-                <marker date="1557514505907" expanded="true" signature="159:232" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="348:618" ph="/// The Base Controller SDK script provides a bridge to SDK methods that deal with the input devices. ... " />
-                <marker date="1557514505907" expanded="true" signature="674:30757" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="689:770" ph="/// Types of buttons on a controller ... " />
-                <marker date="1557514505907" expanded="true" signature="802:2300" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="825:911" ph="/// Button One on the controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="947:1033" ph="/// Button Two on the controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="1069:1149" ph="/// Grip on the controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="1180:1269" ph="/// Grip Hairline on the controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="1308:1394" ph="/// Start Menu on the controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="1430:1513" ph="/// Trigger on the controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="1547:1639" ph="/// Trigger Hairline on the controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="1681:1765" ph="/// Touchpad on the controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="1800:1888" ph="/// Touchpad Two on the controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="1926:2015" ph="/// Middle Finger on the controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="2054:2141" ph="/// Ring Finger on the controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="2178:2266" ph="/// Pinky Finger on the controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="2310:2394" ph="/// Concepts of controller button press ... " />
-                <marker date="1557514505907" expanded="true" signature="2431:3215" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="2454:2549" ph="/// The button is currently being pressed. ... " />
-                <marker date="1557514505907" expanded="true" signature="2581:2676" ph="/// The button has just been pressed down. ... " />
-                <marker date="1557514505907" expanded="true" signature="2712:2803" ph="/// The button has just been released. ... " />
-                <marker date="1557514505907" expanded="true" signature="2837:2932" ph="/// The button is currently being touched. ... " />
-                <marker date="1557514505907" expanded="true" signature="2964:3054" ph="/// The button has just been touched. ... " />
-                <marker date="1557514505907" expanded="true" signature="3090:3185" ph="/// The button is no longer being touched. ... " />
-                <marker date="1557514505907" expanded="true" signature="3225:3310" ph="/// The elements of a generic controller ... " />
-                <marker date="1557514505907" expanded="true" signature="3349:4745" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="3372:3494" ph="/// The default point on the controller to attach grabbed objects to. ... " />
-                <marker date="1557514505907" expanded="true" signature="3532:3608" ph="/// The trigger button. ... " />
-                <marker date="1557514505907" expanded="true" signature="3642:3743" ph="/// The left part of the grip button collection. ... " />
-                <marker date="1557514505907" expanded="true" signature="3778:3880" ph="/// The right part of the grip button collection. ... " />
-                <marker date="1557514505907" expanded="true" signature="3916:3993" ph="/// The touch pad/stick. ... " />
-                <marker date="1557514505907" expanded="true" signature="4028:4110" ph="/// The first generic button. ... " />
-                <marker date="1557514505907" expanded="true" signature="4146:4229" ph="/// The second generic button. ... " />
-                <marker date="1557514505907" expanded="true" signature="4265:4345" ph="/// The system menu button. ... " />
-                <marker date="1557514505907" expanded="true" signature="4382:4484" ph="/// The encompassing mesh of the controller body. ... " />
-                <marker date="1557514505907" expanded="true" signature="4515:4594" ph="/// The start menu button. ... " />
-                <marker date="1557514505907" expanded="true" signature="4630:4711" ph="/// The touch pad/stick two. ... " />
-                <marker date="1557514505907" expanded="true" signature="4755:4830" ph="/// Controller hand reference. ... " />
-                <marker date="1557514505907" expanded="true" signature="4865:5222" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="4888:4965" ph="/// No hand is assigned. ... " />
-                <marker date="1557514505907" expanded="true" signature="4996:5079" ph="/// The left hand is assigned. ... " />
-                <marker date="1557514505907" expanded="true" signature="5110:5194" ph="/// The right hand is assigned. ... " />
-                <marker date="1557514505907" expanded="true" signature="5232:5302" ph="/// SDK Controller types. ... " />
-                <marker date="1557514505907" expanded="true" signature="5337:7528" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="5360:5436" ph="/// No controller type. ... " />
-                <marker date="1557514505907" expanded="true" signature="5472:5554" ph="/// A custom controller type. ... " />
-                <marker date="1557514505907" expanded="true" signature="5587:5682" ph="/// The Simulator default hand controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="5723:5821" ph="/// The HTC Vive wand controller for SteamVR. ... " />
-                <marker date="1557514505907" expanded="true" signature="5864:5961" ph="/// The Oculus Touch controller for SteamVR. ... " />
-                <marker date="1557514505907" expanded="true" signature="6007:6113" ph="/// The Oculus Touch controller for Oculus Utilities. ... " />
-                <marker date="1557514505907" expanded="true" signature="6158:6263" ph="/// The Daydream controller for Google Daydream SDK. ... " />
-                <marker date="1557514505907" expanded="true" signature="6309:6403" ph="/// The Flip controller for Ximmerse SDK. ... " />
-                <marker date="1557514505907" expanded="true" signature="6443:6542" ph="/// The Valve Knuckles controller for SteamVR. ... " />
-                <marker date="1557514505907" expanded="true" signature="6590:6687" ph="/// The Oculus Gamepad for Oculus Utilities. ... " />
-                <marker date="1557514505907" expanded="true" signature="6734:6830" ph="/// The Oculus Remote for Oculus Utilities. ... " />
-                <marker date="1557514505907" expanded="true" signature="6876:6985" ph="/// The Oculus GearVR HMD controls for Oculus Utilities. ... " />
-                <marker date="1557514505907" expanded="true" signature="7028:7135" ph="/// The Oculus GearVR controller for Oculus Utilities. ... " />
-                <marker date="1557514505907" expanded="true" signature="7185:7312" ph="/// The Windows Mixed Reality Motion Controller for Windows Mixed Reality. ... " />
-                <marker date="1557514505907" expanded="true" signature="7365:7478" ph="/// The Windows Mixed Reality Motion Controller for SteamVR. ... " />
-                <marker date="1557514505907" expanded="true" signature="8047:8702" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="8221:8692" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="8330:8428" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="8552:8651" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="8712:9037" ph="/// The ProcessUpdate method enables an SDK to run logic for every Unity Update ... " />
-                <marker date="1557514505907" expanded="true" signature="9173:9514" ph="/// The ProcessFixedUpdate method enables an SDK to run logic for every Unity FixedUpdate ... " />
-                <marker date="1557514505907" expanded="true" signature="9655:10013" ph="/// The GetCurrentControllerType method returns the current used ControllerType based on the SDK and headset bein ... " />
-                <marker date="1557514505907" expanded="true" signature="10141:10497" ph="/// The GetControllerDefaultColliderPath returns the path to the prefab that contains the collider objects for th ... " />
-                <marker date="1557514505907" expanded="true" signature="10593:11146" ph="/// The GetControllerElementPath returns the path to the game object that the given controller element for the gi ... " />
-                <marker date="1557514505907" expanded="true" signature="11285:11559" ph="/// The GetControllerIndex method returns the index of the given controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="11641:12075" ph="/// The GetControllerByIndex method returns the GameObject of a controller with a specific index. ... " />
-                <marker date="1557514505907" expanded="true" signature="12175:12497" ph="/// The GetControllerOrigin method returns the origin of the given controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="12608:13063" ph="/// The GenerateControllerPointerOrigin method can create a custom pointer origin Transform to represent the poin ... " />
-                <marker date="1557514505907" expanded="true" signature="13289:13686" ph="/// The GetControllerLeftHand method returns the GameObject containing the representation of the left hand contro ... " />
-                <marker date="1557514505907" expanded="true" signature="13775:14175" ph="/// The GetControllerRightHand method returns the GameObject containing the representation of the right hand cont ... " />
-                <marker date="1557514505907" expanded="true" signature="14265:14588" ph="/// The IsControllerLeftHand/1 method is used to check if the given controller is the the left hand controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="14672:14998" ph="/// The IsControllerRightHand/1 method is used to check if the given controller is the the right hand controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="15083:15544" ph="/// The IsControllerLeftHand/2 method is used to check if the given controller is the the left hand controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="15641:16105" ph="/// The IsControllerRightHand/2 method is used to check if the given controller is the the right hand controller. ... " />
-                <marker date="1557514505907" expanded="true" signature="16203:16690" ph="/// The WaitForControllerModel method determines whether the controller model for the given hand requires waiting ... " />
-                <marker date="1557514505907" expanded="true" signature="16774:17072" ph="/// The GetControllerModel method returns the model alias for the given GameObject. ... " />
-                <marker date="1557514505907" expanded="true" signature="17160:17467" ph="/// The GetControllerModel method returns the model alias for the given controller hand. ... " />
-                <marker date="1557514505907" expanded="true" signature="17553:17888" ph="/// The GetControllerModelHand method returns the hand for the given controller model GameObject. ... " />
-                <marker date="1557514505907" expanded="true" signature="17977:18553" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="18124:18503" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="18226:18310" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="18404:18489" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="18563:18925" ph="/// The GetControllerRenderModel method gets the game object that contains the given controller's render model. ... " />
-                <marker date="1557514505907" expanded="true" signature="19042:19461" ph="/// The SetControllerRenderModelWheel method sets the state of the scroll wheel on the controller render model. ... " />
-                <marker date="1557514505907" expanded="true" signature="19567:19970" ph="/// The HapticPulse/2 method is used to initiate a simple haptic pulse on the tracked object of the given control ... " />
-                <marker date="1557514505907" expanded="true" signature="20091:20487" ph="/// The HapticPulse/2 method is used to initiate a haptic pulse based on an audio clip on the tracked object of t ... " />
-                <marker date="1557514505907" expanded="true" signature="20601:20911" ph="/// The GetHapticModifiers method is used to return modifiers for the duration and interval if the SDK handles it ... " />
-                <marker date="1557514505907" expanded="true" signature="20997:21367" ph="/// The GetVelocity method is used to determine the current velocity of the tracked object on the given controlle ... " />
-                <marker date="1557514505907" expanded="true" signature="21468:21861" ph="/// The GetAngularVelocity method is used to determine the current angular velocity of the tracked object on the  ... " />
-                <marker date="1557514505907" expanded="true" signature="21969:22371" ph="/// The IsTouchpadStatic method is used to determine if the touchpad is currently not being moved. ... " />
-                <marker date="1557514505907" expanded="true" signature="22520:23055" ph="/// The GetButtonAxis method retrieves the current X/Y axis values for the given button type on the given control ... " />
-                <marker date="1557514505907" expanded="true" signature="23182:23631" ph="/// The GetButtonSenseAxis method retrieves the current sense axis value for the given button type on the given c ... " />
-                <marker date="1557514505907" expanded="true" signature="23761:24224" ph="/// The GetButtonHairlineDelta method is used to get the difference between the current button press and the prev ... " />
-                <marker date="1557514505907" expanded="true" signature="24358:25001" ph="/// The GetControllerButtonState method is used to determine if the given controller button for the given press t ... " />
-                <marker date="1557514505907" expanded="true" signature="25245:25573" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="25392:25538" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="25665:25995" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="25812:25960" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="26095:26219" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="26320:26446" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="26538:26917" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="26707:26881" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="27010:27391" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="27179:27355" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="27485:27593" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="27688:28218" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="27835:28183" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="27879:28169" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="28299:28924" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="28494:28877" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="28562:28682" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="28742:28863" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="29046:29687" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="29186:29677" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="29300:29403" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="29532:29636" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="29792:30432" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="29995:30396" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="30560:30751" ph="{...}" />
-                <marker date="1557514505907" expanded="true" signature="30805:30996" ph="{...}" />
+                <marker date="1558113378245" expanded="false" signature="6:78" ph="..." />
+                <marker date="1558113378245" expanded="true" signature="133:2067" ph="{...}" />
+                <marker date="1558113378245" expanded="true" signature="452:569" ph="{...}" />
+                <marker date="1558113378245" expanded="true" signature="588:690" ph="{...}" />
+                <marker date="1558113378245" expanded="true" signature="768:1598" ph="{...}" />
+                <marker date="1558113378245" expanded="true" signature="1084:1212" ph="{...}" />
+                <marker date="1558113378245" expanded="true" signature="1128:1208" ph="{...}" />
+                <marker date="1558113378245" expanded="true" signature="1261:1354" ph="{...}" />
+                <marker date="1558113378245" expanded="true" signature="1691:2064" ph="{...}" />
+                <marker date="1558113378245" expanded="true" signature="1968:2044" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -491,6 +68,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>mapWidth</find>
+      <find>isMoving</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -504,6 +82,7 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/FalloffGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/C8D2DEAE-EB3A-4471-B3E2-24C2A136823A/48/75e1a067/Transform.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Builder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Player/FPS Controller by LlamaTemplar/Scripts/PlayerMovementController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/VRTK/Source/SDK/Base/SDK_BaseController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/VRTK/Source/SDK/Simulator/SDK_InputSimulator.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -515,12 +94,13 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/FalloffGenerator.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Builder.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/PlaceableObj.cs" />
+        <option value="$PROJECT_DIR$/Assets/Player/FPS Controller by LlamaTemplar/Scripts/PlayerMovementController.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="904" />
-    <option name="y" value="177" />
+    <option name="x" value="242" />
+    <option name="y" value="381" />
     <option name="width" value="974" />
     <option name="height" value="1087" />
   </component>
@@ -576,6 +156,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.20350109" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -702,27 +283,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlaceableObj.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="448">
-          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
-          <folding>
-            <marker date="1557515667157" expanded="false" signature="6:78" ph="..." />
-            <marker date="1557515667157" expanded="true" signature="121:1615" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="329:402" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="454:968" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="476:965" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="627:961" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="729:878" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="918:955" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="1017:1093" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="1149:1444" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="1170:1382" ph="{...}" />
-            <marker date="1557515667157" expanded="true" signature="1508:1613" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/VRTK/Source/SDK/Simulator/SDK_InputSimulator.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3600">
@@ -824,7 +384,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Assets/VRTK/Source/Scripts/Utilities/SDK/VRTK_SDKManager.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5584">
+        <state relative-caret-position="5152">
           <caret line="366" selection-start-line="366" selection-end-line="366" />
           <folding>
             <marker date="1557514506098" expanded="false" signature="58:525" ph="..." />
@@ -1010,11 +570,33 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlaceableObj.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="59" column="53" selection-start-line="59" selection-start-column="53" selection-end-line="59" selection-end-column="53" />
+          <folding>
+            <marker date="1558111034895" expanded="false" signature="6:90" ph="..." />
+            <marker date="1558111034895" expanded="true" signature="133:1857" ph="{...}" />
+            <marker date="1558111034895" expanded="true" signature="377:596" ph="{...}" />
+            <marker date="1558111034895" expanded="true" signature="648:1235" ph="{...}" />
+            <marker date="1558111034895" expanded="true" signature="683:1183" ph="{...}" />
+            <marker date="1558111034895" expanded="true" signature="834:1179" ph="{...}" />
+            <marker date="1558111034895" expanded="true" signature="936:1096" ph="{...}" />
+            <marker date="1558111034895" expanded="true" signature="1032:1090" ph="/* Anchor = hit.point; ... */" />
+            <marker date="1558111034895" expanded="true" signature="1136:1173" ph="{...}" />
+            <marker date="1558111034895" expanded="true" signature="1203:1231" ph="{...}" />
+            <marker date="1558111034895" expanded="true" signature="1284:1338" ph="{...}" />
+            <marker date="1558111034895" expanded="true" signature="1394:1686" ph="{...}" />
+            <marker date="1558111034895" expanded="true" signature="1415:1624" ph="{...}" />
+            <marker date="1558111034895" expanded="true" signature="1750:1855" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/VRTK/Source/SDK/Base/SDK_BaseController.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <folding>
-            <marker date="1557514505907" expanded="true" signature="46:30998" ph="{...}" />
             <marker date="1557514505907" expanded="false" signature="59:109" ph="..." />
             <marker date="1557514505907" expanded="true" signature="159:232" ph="{...}" />
             <marker date="1557514505907" expanded="true" signature="348:618" ph="/// The Base Controller SDK script provides a bridge to SDK methods that deal with the input devices. ... " />
@@ -1141,6 +723,32 @@
             <marker date="1557514505907" expanded="true" signature="29995:30396" ph="{...}" />
             <marker date="1557514505907" expanded="true" signature="30560:30751" ph="{...}" />
             <marker date="1557514505907" expanded="true" signature="30805:30996" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/unity-chan!/Unity-chan! Model/Scripts/UnityChanControlScriptWithRgidBody.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="41" column="30" lean-forward="true" selection-start-line="41" selection-start-column="8" selection-end-line="41" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Player/FPS Controller by LlamaTemplar/Scripts/PlayerMovementController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="38" column="34" selection-start-line="38" selection-start-column="34" selection-end-line="38" selection-end-column="34" />
+          <folding>
+            <marker date="1558113378245" expanded="false" signature="6:78" ph="..." />
+            <marker date="1558113378245" expanded="true" signature="133:2067" ph="{...}" />
+            <marker date="1558113378245" expanded="true" signature="452:569" ph="{...}" />
+            <marker date="1558113378245" expanded="true" signature="588:690" ph="{...}" />
+            <marker date="1558113378245" expanded="true" signature="768:1598" ph="{...}" />
+            <marker date="1558113378245" expanded="true" signature="1084:1212" ph="{...}" />
+            <marker date="1558113378245" expanded="true" signature="1128:1208" ph="{...}" />
+            <marker date="1558113378245" expanded="true" signature="1261:1354" ph="{...}" />
+            <marker date="1558113378245" expanded="true" signature="1691:2064" ph="{...}" />
+            <marker date="1558113378245" expanded="true" signature="1968:2044" ph="{...}" />
           </folding>
         </state>
       </provider>
