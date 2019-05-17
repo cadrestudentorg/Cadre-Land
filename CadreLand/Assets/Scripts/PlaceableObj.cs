@@ -5,7 +5,7 @@ using VRTK;
 
 public class PlaceableObj : MonoBehaviour
 {
-	[SerializeField] bool isBeingHeld = false;
+
 	[SerializeField] bool canRelease = false;
 	[SerializeField] float buildSpeed = 50;
 	Vector3 Anchor;
@@ -23,7 +23,6 @@ public class PlaceableObj : MonoBehaviour
 		interactable = GetComponent<VRTK_InteractableObject>();
 		meshFilter = GetComponent<MeshFilter>();
 		height = meshFilter.mesh.bounds.size.x;
-		
 	}
 
 	// Update is called once per frame
@@ -41,25 +40,18 @@ public class PlaceableObj : MonoBehaviour
 					canRelease = true;
 					Anchor = hit.point + new Vector3(0, height / 2.5f, 0);
 					//Anchor = hit.point;
-					//-print("Anchor = " + Anchor);
-				}
-				else // obj is not above cadre land
+				} else if(canRelease)
 				{
-					canRelease = false;
+					ReleaseObject();
 				}
 
 			}
-		} else if(canRelease)
-		{
-			ReleaseObject();
 		}
-
 	}
-	
+
 	public void GrabObject(GameObject GrabParent)
 	{
 		this.transform.parent = GrabParent.transform;
-		isBeingHeld = true;
 	}
 
 	[ContextMenu("Release")]
@@ -67,7 +59,6 @@ public class PlaceableObj : MonoBehaviour
 	{
 		if (canRelease)
 		{
-			//this.transform.parent = null;
 			AnchorRotation = this.transform.rotation;
 			//isBeingHeld = false;
 			rigbdy.AddForce(Vector3.down * buildSpeed);
