@@ -18,7 +18,7 @@ public class StartGame : MonoBehaviour
 
         if (Input.GetButton("Jump"))
         {
-            SceneManager.LoadScene("VR2.0Island");
+            SceneManager.LoadScene("CLFreeplay");
 
         }
 

@@ -21,7 +21,7 @@ public class ExitGame : MonoBehaviour
             print("hi");
             Application.Quit();
         }
-            if (Input.GetKey("3"))
+            if (Input.GetKey("0"))
             {
             print("reset");
             SceneManager.LoadScene("StartMenu");
@@ -29,15 +29,15 @@ public class ExitGame : MonoBehaviour
                // PublicVarPig.pigmentsCol = 0;
             }
 
-        if (Input.GetKey("4"))
+        if (Input.GetKey("8"))
         {
             print("reset");
-            SceneManager.LoadScene("CLFreeplay");
+            SceneManager.LoadScene("VR2.0Island");
             // PublicVariables.pigments = -.85f;
             // PublicVarPig.pigmentsCol = 0;
         }
 
-        if (Input.GetKey("5"))
+        if (Input.GetKey("9"))
         {
             print("reset");
             SceneManager.LoadScene("CL_3Gods");
