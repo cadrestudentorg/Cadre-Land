@@ -10,6 +10,9 @@
         <e p="Editor" t="Include">
           <e p="MapGenEditor.cs" t="Include" />
         </e>
+        <e p="OBJExport" t="Include">
+          <e p="OBJExporter.cs" t="Include" />
+        </e>
         <e p="Oculus" t="Include">
           <e p="AudioManager" t="Include">
             <e p="Scenes" t="Include">
@@ -918,36 +921,6 @@
             <e p="RecorderBindings.cs" t="Include" />
             <e p="SerializedDictionnary.cs" t="Include" />
             <e p="Unity.Recorder.asmdef" t="Include" />
-          </e>
-        </e>
-        <e p="unity-chan!" t="Include">
-          <e p="Unity-chan! Model" t="Include">
-            <e p="Art" t="Include">
-              <e p="Stage" t="Include">
-                <e p="Shader" t="Include">
-                  <e p="AlphaMask.shader" t="Include" />
-                </e>
-              </e>
-              <e p="UnityChanShader" t="Include">
-                <e p="Shader" t="Include">
-                  <e p="Unitychan_chara_akarami_blend.shader" t="Include" />
-                  <e p="Unitychan_chara_eye.shader" t="Include" />
-                  <e p="Unitychan_chara_eye_blend.shader" t="Include" />
-                  <e p="Unitychan_chara_eyelash_blend.shader" t="Include" />
-                  <e p="Unitychan_chara_fuku.shader" t="Include" />
-                  <e p="Unitychan_chara_fuku_ds.shader" t="Include" />
-                  <e p="Unitychan_chara_hada.shader" t="Include" />
-                  <e p="Unitychan_chara_hada_blend.shader" t="Include" />
-                  <e p="Unitychan_chara_hair.shader" t="Include" />
-                  <e p="Unitychan_chara_hair_ds.shader" t="Include" />
-                </e>
-              </e>
-            </e>
-            <e p="Audio" t="Include">
-              <e p="Voice" t="Include">
-                <e p="unity-chan_voice_list.txt" t="Include" />
-              </e>
-            </e>
           </e>
         </e>
         <e p="VRTK" t="Include">
