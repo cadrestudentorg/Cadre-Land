@@ -9,12 +9,12 @@ EditorBuildSettings:
     path: Assets/Scenes/StartMenu.unity
     guid: fa7c4e3fa8816cd479b07f573443d310
   - enabled: 1
-    path: Assets/Scenes/VR2.0Island.unity
-    guid: 9daf18b9b0e46364f99a787954605dd2
+    path: Assets/Scenes/CLFreePlay.unity
+    guid: df556a95cd94f2449a3f8d4305a802a8
   - enabled: 1
     path: Assets/Scenes/CL_3Gods.unity
     guid: 01ebb69f781ca5f4faac1d1ab9e657e5
   - enabled: 1
-    path: Assets/Scenes/CLFreePlay.unity
-    guid: df556a95cd94f2449a3f8d4305a802a8
+    path: Assets/Scenes/VR2.0Island.unity
+    guid: 9daf18b9b0e46364f99a787954605dd2
   m_configObjects: {}
