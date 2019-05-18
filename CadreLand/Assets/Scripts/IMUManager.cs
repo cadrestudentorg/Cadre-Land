@@ -55,7 +55,7 @@ public class IMUManager : MonoBehaviour
 
         if (wp == "win")
         {
-            sp = new SerialPort("COM4", 115200, Parity.None, 8, StopBits.One);
+            sp = new SerialPort("COM8", 115200, Parity.None, 8, StopBits.One);
             print("WIN port being opened");
         }
 

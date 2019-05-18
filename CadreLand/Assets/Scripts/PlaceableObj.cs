@@ -5,6 +5,7 @@ using VRTK;
 
 public class PlaceableObj : MonoBehaviour
 {
+	[SerializeField] bool isBeingHeld = false;
 	[SerializeField] bool canRelease = false;
 	[SerializeField] float buildSpeed = 50;
 	Vector3 Anchor;

@@ -27,24 +27,24 @@ public class IMURotate : MonoBehaviour
     void Update()
     {
         // Smoothly tilts a transform towards a target rotation.
-        float tiltAroundZ = IMUManager.inst.getImuDataX() * tiltAngle;
-        float tiltAroundX = Input.GetAxis("Vertical") * tiltAngle;
+       // float tiltAroundZ = IMUManager.inst.getImuDataX() * tiltAngle;
+      //  float tiltAroundX = Input.GetAxis("Vertical") * tiltAngle;
 
         // Rotate the cube by converting the angles into a quaternion.
-        Quaternion target = Quaternion.Euler(tiltAroundX, 0, tiltAroundZ);
+       // Quaternion target = Quaternion.Euler(tiltAroundX, 0, tiltAroundZ);
 
         // Dampen towards the target rotation
-        transform.rotation = Quaternion.Slerp(transform.rotation, target, Time.deltaTime * smooth);
+        //  transform.rotation = Quaternion.Slerp(transform.rotation, target, Time.deltaTime * smooth);
+        transform.Rotate(
 
+           // Input.GetAxis("Horizontal")
+           //  xRotation += IMUManager.inst.getImuDataX();
+           //  transform.eulerAngles = new Vector3(xRotation, 0, 0);
 
-        // Input.GetAxis("Horizontal")
-        //  xRotation += IMUManager.inst.getImuDataX();
-        //  transform.eulerAngles = new Vector3(xRotation, 0, 0);
+           // Quaternion rotation = Quaternion.Euler(new Vector3(xRotation, 0, 0));
 
-        // Quaternion rotation = Quaternion.Euler(new Vector3(xRotation, 0, 0));
-
-        //  IMUManager.inst.getImuDataY() * Time.deltaTime,
-        //  IMUManager.inst.getImuDataX() * Time.deltaTime,
-        //  IMUManager.inst.getImuDataZ() * Time.deltaTime);
+           IMUManager.inst.getImuDataY() * Time.deltaTime,
+          IMUManager.inst.getImuDataX() * Time.deltaTime,
+          IMUManager.inst.getImuDataZ() * Time.deltaTime);
     }
 }
